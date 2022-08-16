@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AmanKrr/LMS/static/css/main.03a9010e.css",
-    "main.js": "/AmanKrr/LMS/static/js/main.518fbc4c.js",
-    "index.html": "/AmanKrr/LMS/index.html",
-    "main.03a9010e.css.map": "/AmanKrr/LMS/static/css/main.03a9010e.css.map",
-    "main.518fbc4c.js.map": "/AmanKrr/LMS/static/js/main.518fbc4c.js.map"
+    "main.css": "./static/css/main.03a9010e.css",
+    "main.js": "./static/js/main.518fbc4c.js",
+    "index.html": "./index.html",
+    "main.03a9010e.css.map": "./static/css/main.03a9010e.css.map",
+    "main.518fbc4c.js.map": "./static/js/main.518fbc4c.js.map"
   },
   "entrypoints": [
     "static/css/main.03a9010e.css",
